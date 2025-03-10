@@ -1,0 +1,49 @@
+
+
+.signup-body{
+    width: 100%;
+    height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url('../src/assets/signup-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card-signup{
+    background-color: transparent;
+    width: 330px;
+    padding: 10px;
+    justify-self: center;
+    position: relative;
+    top: 100px;
+    /* border: 1px solid red; */
+    text-align: center;
+}
+
+.card-signup img{
+    margin-top: 30px;
+}
+
+.card-signup h3{
+    color: #434242;
+    font-weight: 800;
+}
+
+.card-signup input{
+    padding: 8px;
+    margin: 10px;
+    width: 80%;
+    border-radius: 4px;
+    border: 1px solid #c3c3c3;
+}
+
+.card-signup label{
+    float: left;
+    margin-left: 22px;
+}
+
+.card-signup label a{
+    color: #fbdc4e;
+    text-decoration: none;
+    font-weight: 400;
+}
